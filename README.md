@@ -27,7 +27,15 @@ This is a self-created Power BI project using the IBM HR Analytics Employee Attr
 ## 📷 Dashboard Preview
 
 
-`![Dashboard Screenshot](dashboard.png)`
+`![Dashboard Scre### 📷 Dashboard Preview
+
+![Dashboard Overview](ibm1.png)  
+*Main dashboard with KPI cards and department-wise analysis*
+*Drillthrough view showing individual employee details*
+enshot](dashboard.png)`
+
+![Drillthrough Page](ibm2.png)  
+
 
 ---
 
