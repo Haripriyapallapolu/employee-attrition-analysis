@@ -27,7 +27,9 @@ This is a self-created Power BI project using the IBM HR Analytics Employee Attr
 ## 📷 Dashboard Preview
 
 
-`![Dashboard Screenshot](dashboard.png)`
+`![Das![Uploading image.png…]()
+hboard Screenshot](dash![Uploading image.png…]()
+board.png)`
 
 ---
 
